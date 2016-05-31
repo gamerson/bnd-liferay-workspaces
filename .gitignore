@@ -1,0 +1,7 @@
+/.project
+/.settings
+.gradle/
+.metadata
+bin/
+bin_test/
+generated/
